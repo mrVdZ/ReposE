@@ -2,7 +2,10 @@
 This is for E Block!
 
 ## Homework
-I will have homework here....
+- [ ] Install Processing from Processing.org
+- [ ] Copy an example Processing file into the Homework folder
+- [ ] Make a blockl diagram of that Processing example
+- [ ] Commit & Push repo to Github (so Mr VdZ can see it)
 
 ## Notes
 See paper
